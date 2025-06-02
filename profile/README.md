@@ -1,9 +1,9 @@
-# Title of the projet goes here
+# Benchmarking Hardware Encoding for Live 360° Video Tiled Streaming
 
-This organization contains the code that was used and the data that was produced for the paper "Title of the project".
+This organization contains the code that was used and the data that was produced for this paper.
 
-[Read the paper](https://espace2.etsmtl.ca/)
+<!--[Read the paper](https://espace2.etsmtl.ca/)-->
 
 ## Citation
 
-Citation goes here.
+To be added after acceptance.
